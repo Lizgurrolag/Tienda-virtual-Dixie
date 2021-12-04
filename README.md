@@ -1,12 +1,18 @@
 # Tienda-virtual-Dixie
 Tienda virtual de ropa
+
+
 El presente sistema fue desarrollado para la tienda de ropa virtual DIXIE, tiene la finalidad de facilitar el uso y la navegación en el portal de la tienda, mediante el software presentado se podrán registrar clientes, iniciar sesión, ver productos disponibles, añadir productos a favoritos, realizar compras mediante una forma de pago de las que se presentan, al ingresar los datos y seleccionar los datos de envío, tendrá la posibilidad de visualizar el estado de su compra. A futuro se planean implementar ciertas actualizaciones que mejorarán el funcionamiento del sistema, para ello se realizarán más análisis utilizándolo, su funcionamiento está basado en un menú general que muestra las opciones disponibles, que se ejecutarán mediante otros submenús.
 Cada uno de los módulos fue desarrollado individualmente. Los módulos registrar usuario, buscar productos e iniciar sesión fueron desarrollados por Jonathan Jesús Gomez Gamez, el módulo información del cliente fue desarrollado por Lizdybeth Gurrola, la sección de productos (añadir a favoritos, ver favoritos) fue programada por Jesús Emmanuel Lugo, y finalmente el módulo realizar pagos fue programado por Fernando Salazar.
 
 
 
 **MANUAL DE USUARIO**
+
+
 REGISTRO DE EMPRESA
+
+
 1.- Ingresa al sistema de información de la página dixie 
 
 Dentro de la página se permite el acceso al Formulario Registro e Iniciar Sesión
@@ -21,6 +27,8 @@ Al confirmar la información, los datos ingresados anteriormente se quedan almac
 Para regresar a la página principal solo le da clic en inicio.
 
 PERFIL
+
+
 Para entrar al perfil tiene que estar dentro de la página principal del sistema
 1.- Se debe ingresar a la sección de perfil que se ubica en la parte derecha superior de la pantalla.
 Dentro del perfil le mostrara los datos personales que ingreso anteriormente
@@ -37,6 +45,8 @@ El usuario tiene la opción de dejar los datos como están o modificarlos si des
 2.- Posteriormente se escoge la opción de guardar cambios para conservar las modificaciones
 
 CATALOGO
+
+
 1.- Para visualizar el catalogo se ingresa en la opción correspondiente en el menú principal
 2.- Para añadir un producto a favoritos tiene que seleccionar el artículo y darle clic en añadir producto a favorito.
 En la opción de añadir producto a favoritos aparecerá un formulario donde se deben ingresar los datos correspondientes de manera obligatoria.
@@ -53,13 +63,17 @@ Una vez ya terminado el formulario el usuario decide si seguir navegando o cerra
 
 
 **DESARROLLADORES**
+
+
 -Jonathan Jesús Gomez Gamez
 -Lizdybeth Gurrola Grijalva
 -Fernando Salazar Ballesteros
 -Jesús Emmanuel Lugo Montaño
 
 
-**MÓDULOS DESARROLLADOS**
+**MÓDULOS DESARROLLADOS** 
+
+
 1: Iniciar sesión - Jonathan
 2: Información del cliente - Lizdybeth
 3: Productos - Jonathan
@@ -68,4 +82,6 @@ Una vez ya terminado el formulario el usuario decide si seguir navegando o cerra
 
 
 **CONCLUSIÓN**
+
+
 El presente sistema tiene la funcionalidad de simular el comportamiento y las acciones de una tienda virtual, que además cuenta con ciertas características que le serán particularmente fáciles de utilizar al cliente debido a la manera en que están diseñadas y codificadas.
